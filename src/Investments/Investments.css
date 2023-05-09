@@ -1,0 +1,16 @@
+
+
+.investiments{
+    border: 1px solid #00000071;
+    margin: 1em;
+    border-radius: 10px;
+}
+
+.investiments h3{
+    text-align: center;
+    margin: 1em;
+}
+
+.rend{
+    text-align: center;
+}
