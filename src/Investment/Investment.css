@@ -1,0 +1,22 @@
+.investment{
+    margin: 1em;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.425);
+}
+
+.investment, .infos{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.infos{
+    width: 200px;
+}
+
+.green{
+    color: rgb(6, 177, 6);
+}
+
+.red{
+    color: red;
+}
